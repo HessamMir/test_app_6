@@ -16,4 +16,8 @@ to commit something new do
 git status
 git add -A
 git commit -m "commit (the file)"
+<<<<<<< HEAD
 git push origin master 
+=======
+git push origin master
+>>>>>>> eed04f770889664cd2118b0afb864547cb979fd0
