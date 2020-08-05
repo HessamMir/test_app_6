@@ -12,4 +12,7 @@ rails( rails new whatsever, rails s (to run server) rails _5.2.0_ new whatever, 
 how to generate - rails generate controller (name of controller)
 git commit -m "(something in present tense)"
 git add -a -->
-f
+to commit something new do 
+git status
+git add -A
+git commit -m "commit (the file)"
